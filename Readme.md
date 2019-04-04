@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainPage.xaml](./CS/DXPivotGrid_Filtering/MainPage.xaml) (VB: [MainPage.xaml](./VB/DXPivotGrid_Filtering/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/DXPivotGrid_Filtering/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/DXPivotGrid_Filtering/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/DXPivotGrid_Filtering/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/DXPivotGrid_Filtering/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to: Apply Filter to a Field
 
